@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Nora's github stats](https://github-readme-stats.vercel.app/api?username=nora-maleki)](https://github.com/nora-maleki/github-readme-stats)
+![Nora's GitHub stats](https://github-readme-stats.vercel.app/api?username=nora-maleki&show_icons=true&theme=radical1)
+<!-- [![Nora's github stats](https://github-readme-stats.vercel.app/api?username=nora-maleki)](https://github.com/nora-maleki/github-readme-stats) -->
