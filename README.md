@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 -->
 
 ![Nora's GitHub stats](https://github-readme-stats.vercel.app/api?username=nora-maleki&theme=maroongold&show_icons=true)
-[![Most Languages used](https://github-readme-stats.vercel.app/api/top-langs/?username=nora-maleki&layout=compact)](https://github.com/nora-maleki/github-readme-stats)
+
+![Most Languages used](https://github-readme-stats.vercel.app/api/top-langs/?username=nora-maleki&layout=compact)
 
 <!-- [![Nora's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nora-maleki)](https://github.com/nora-maleki/github-readme-stats) -->
 
