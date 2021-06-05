@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Nora's GitHub stats](https://github-readme-stats.vercel.app/api?username=nora-maleki&theme=maroongold&show_icons=true)
+![Nora's GitHub stats](https://github-readme-stats.vercel.app/api?username=nora-maleki&theme=maroongold&show_icons=true&hide=stars&count_private=true)
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nora-maleki&langs_count=8)](https://github.com/nora-maleki/github-readme-stats)
  -->
