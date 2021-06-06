@@ -25,9 +25,7 @@ Here are some ideas to get you started:
 
 <!-- ![Nora's GitHub stats](https://github-readme-stats-3l4i4a2vg-nora-maleki.vercel.app/api?username=nora-maleki&theme=maroongold&show_icons=true&hide=stars&count_private=true) -->
 
-<!-- [![Top Langs](https://github-readme-stats-3l4i4a2vg-nora-maleki.vercel.app/api/top-langs/?username=nora-maleki&?orgs=Westdrive-Workgroup&count_private=true)](https://github.com/nora-maleki/github-readme-stats) -->
-
 <!-- [![Top Langs](https://github-readme-stats-3l4i4a2vg-nora-maleki.vercel.app/api/top-langs/?username=nora-maleki&?orgs=Westdrive-Workgroup&layout=compact&langs_count=20)](https://github.com/nora-maleki/github-readme-stats) -->
 
-<!-- [![Nora's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nora_maleki)](https://github.com/nora-maleki/github-readme-stats) -->
+<!-- [![Nora's wakatime stats](https://github-readme-stats-3l4i4a2vg-nora-maleki.vercel.app/api/wakatime?username=nora_maleki)](https://github.com/nora-maleki/github-readme-stats) -->
 
