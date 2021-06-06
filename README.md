@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nora-maleki&langs_count=8)](https://github.com/nora-maleki/github-readme-stats)
 
-[![Nora's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nora_maleki)](https://github.com/nora-maleki/github-readme-stats)
+<!-- [![Nora's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nora_maleki)](https://github.com/nora-maleki/github-readme-stats) -->
 
