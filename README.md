@@ -16,16 +16,8 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://github.com/nora-maleki/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-3l4i4a2vg-nora-maleki.vercel.app/api?username=nora-maleki&?orgs=Westdrive-Workgroup&theme=radical&show_icons=true&hide=stars&count_private=true" />
+  <img align="center" src="https://github-readme-stats-3l4i4a2vg-nora-maleki.vercel.app/api?username=nora-maleki&?orgs=Westdrive-Workgroup&theme=gruvbox&bg_color=21000a&text_color=c2c19b&show_icons=true&hide=stars&count_private=true&include_all_commits=true" />
 </a>
 <a href="https://github.com/nora-maleki/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-3l4i4a2vg-nora-maleki.vercel.app/api/top-langs/?username=nora-maleki&langs_count=10&layout=compact&?orgs=Westdrive-Workgroup&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR,CONTRIBUTOR" />
+  <img align="center" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=nora-maleki&langs_count=10&layout=compact&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR,CONTRIBUTOR&bg_color=21000a&text_color=c2c19b" />
 </a>
-
-
-<!-- ![Nora's GitHub stats](https://github-readme-stats-3l4i4a2vg-nora-maleki.vercel.app/api?username=nora-maleki&theme=maroongold&show_icons=true&hide=stars&count_private=true) -->
-
-<!-- [![Top Langs](https://github-readme-stats-3l4i4a2vg-nora-maleki.vercel.app/api/top-langs/?username=nora-maleki&langs_count=10&layout=compact&?orgs=Westdrive-Workgroup&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR,CONTRIBUTOR)](https://github.com/nora-maleki/github-readme-stats) -->
-
-<!-- [![Nora's wakatime stats](https://github-readme-stats-3l4i4a2vg-nora-maleki.vercel.app/api/wakatime?username=nora_maleki)](https://github.com/nora-maleki/github-readme-stats) -->
-
