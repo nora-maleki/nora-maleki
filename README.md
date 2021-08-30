@@ -22,6 +22,8 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=nora-maleki&langs_count=5&layout=compact&hide_border=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&bg_color=282a36&text_color=fdaaaa&title_color=fdaaaa" />
 </a>
 
+<!-- [![Nora's github streak](https://github-readme-streak-stats.herokuapp.com/?user=nora-maleki&theme=compact&background_color=282a36&text_color=fdaaaa&title_color=fdaaaa)](https://github.com/DenverCoder1/github-readme-streak-stats) -->
+
 
 <!-- [![Nora's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nora_maleki&langs_count=8&layout=compact&hide_border=true&bg_color=282a36&title_color=fdaaaa&text_color=fdaaaa&icon_color=fdaaaa)](https://github.com/nora-maleki/github-readme-stats) -->
 
