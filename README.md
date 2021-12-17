@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 
 <a href="https://github.com/nora-maleki/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-1k8qz9i7x-nora-maleki.vercel.app/api?username=nora-maleki&?orgs=Westdrive-Workgroup&theme=gruvbox&hide_border=true&bg_color=282a36&text_color=fdaaaa&title_color=fdaaaa&show_icons=true&count_private=true&include_all_commits=true" />
+  <img align="center" src="https://github-readme-stats-1k8qz9i7x-nora-maleki.vercel.app/api?username=nora-maleki&?orgs=Westdrive-Workgroup,VR-EEG&theme=gruvbox&hide_border=true&bg_color=282a36&text_color=fdaaaa&title_color=fdaaaa&show_icons=true&count_private=true&include_all_commits=true&cache_seconds=1800" />
 </a>
 
 
