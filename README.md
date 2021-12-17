@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!-- 
+
 <a href="https://github.com/nora-maleki/github-readme-stats">
   <img align="center" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=nora-maleki&langs_count=4&layout=compact&hide_border=true&hide=ShaderLab,HLSL,GLSL&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&bg_color=282a36&text_color=fdaaaa&title_color=fdaaaa" />
 </a>
@@ -24,7 +24,7 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats-1k8qz9i7x-nora-maleki.vercel.app/api?username=nora-maleki&?orgs=Westdrive-Workgroup,VR-EEG&theme=gruvbox&hide_border=true&bg_color=282a36&text_color=fdaaaa&title_color=fdaaaa&show_icons=true&count_private=true&include_all_commits=true&cache_seconds=1800" />
 </a>
 
- -->
+ 
 <!-- [![Nora's github streak](https://github-readme-streak-stats.herokuapp.com/?user=nora-maleki&theme=compact&background_color=282a36&text_color=fdaaaa&title_color=fdaaaa)](https://github.com/DenverCoder1/github-readme-streak-stats) -->
 
 
