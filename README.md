@@ -16,45 +16,17 @@ Here are some ideas to get you started:
 -->
 
 
-<!--
-<p align="center">
-    <a>
-        <img src="https://user-images.githubusercontent.com/51794014/126156784-01d29993-1b3b-44ba-93f1-b28e56e9ac73.jpg"/>
-    </a>
-</p>
--->
-
-<p align="center">
-<!--     <a>
-        <img src="https://raw.githubusercontent.com/nora-maleki/nora-maleki/main/metrics.classic.svg"/>
-    </a>
-    <br/> -->
-   <!-- <a>
-       <img align="center" src="https://raw.githubusercontent.com/simonSlamka/simonSlamka/main/metrics.plugin.languages.details.svg"/>
-    </a>
-    <br/> -->
-  <!--  <a>
-        <img src="https://raw.githubusercontent.com/simonSlamka/simonSlamka/main/metrics.plugin.support.svg"/>
-    </a> -->
-<!--     <br/>
-    <a>
-        <img src="https://raw.githubusercontent.com/simonSlamka/simonSlamka/main/metrics.plugin.people.svg"/>
-    </a> -->
-</p>
-
-
-<!-- ## Basic stats - global, all-time -->
 <p align="center">
      <a>
         <img align="center" src="https://github.com/nora-maleki/github-stats/blob/master/generated/overview.svg"/>
     </a>
     </br>
     <a href="https://wakatime.com/@nora_maleki">
-        <img align="center" src="https://github.com/nora-maleki/github-stats/blob/master/generated/languages.svg"/>
+        <img align="center" src="https://github.com/nora-maleki/github-stats/blob/master/generated/languages.svg?"/>
     </a> 
     <br/>
     <a>
-<!--         <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=nora-maleki&theme=tokyonight_duo&hide_border=true"/> -->
+        <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=nora-maleki&theme=tokyonight_duo&hide_border=true"/>
     </a>
     <br/>
     <br/>
