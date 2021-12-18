@@ -15,6 +15,52 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+<!--
+<p align="center">
+    <a>
+        <img src="https://user-images.githubusercontent.com/51794014/126156784-01d29993-1b3b-44ba-93f1-b28e56e9ac73.jpg"/>
+    </a>
+</p>
+-->
+
+<p align="center">
+<!--     <a>
+        <img src="https://raw.githubusercontent.com/nora-maleki/nora-maleki/main/metrics.classic.svg"/>
+    </a>
+    <br/> -->
+   <!-- <a>
+       <img align="center" src="https://raw.githubusercontent.com/simonSlamka/simonSlamka/main/metrics.plugin.languages.details.svg"/>
+    </a>
+    <br/> -->
+  <!--  <a>
+        <img src="https://raw.githubusercontent.com/simonSlamka/simonSlamka/main/metrics.plugin.support.svg"/>
+    </a> -->
+<!--     <br/>
+    <a>
+        <img src="https://raw.githubusercontent.com/simonSlamka/simonSlamka/main/metrics.plugin.people.svg"/>
+    </a> -->
+</p>
+
+
+<!-- ## Basic stats - global, all-time -->
+<p align="center">
+<!--     <a>
+        <img align="center" src="https://github.com/nora-maleki/nora-maleki/blob/output/generated/overview.svg"/>
+    </a>
+    </br>
+    <a href="https://wakatime.com/@nora-maleki">
+        <img align="center" src="https://github.com/nora-maleki/nora-maleki/blob/output/generated/languages.svg"/>
+    </a> -->
+    <br/>
+    <a>
+<!--         <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=nora-maleki&theme=tokyonight_duo&hide_border=true"/> -->
+    </a>
+    <br/>
+    <br/>
+    
+
+
 <a href="https://github.com/nora-maleki/github-readme-stats">
   <img align="center" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=nora-maleki&langs_count=4&layout=compact&hide_border=true&hide=ShaderLab,HLSL,GLSL&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&bg_color=282a36&text_color=fdaaaa&title_color=fdaaaa" />
 </a>
