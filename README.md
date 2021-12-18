@@ -45,13 +45,13 @@ Here are some ideas to get you started:
 
 <!-- ## Basic stats - global, all-time -->
 <p align="center">
-<!--     <a>
-        <img align="center" src="https://github.com/nora-maleki/nora-maleki/blob/output/generated/overview.svg"/>
+     <a>
+        <img align="center" src="https://raw.githubusercontent.com/nora-maleki/github-stats/master/generated/overview.svg"/>
     </a>
     </br>
     <a href="https://wakatime.com/@nora-maleki">
-        <img align="center" src="https://github.com/nora-maleki/nora-maleki/blob/output/generated/languages.svg"/>
-    </a> -->
+        <img align="center" src="https://raw.githubusercontent.com/nora-maleki/github-stats/780188dae19bb4c7357b780630c5b4b1c6b21a68/generated/languages.svg"/>
+    </a> 
     <br/>
     <a>
 <!--         <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=nora-maleki&theme=tokyonight_duo&hide_border=true"/> -->
