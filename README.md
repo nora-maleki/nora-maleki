@@ -26,10 +26,12 @@ Here are some ideas to get you started:
     </a> 
     <br/>
     <a>
-        <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=nora-maleki&theme=tokyonight_duo&hide_border=true"/>
+<!--         <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=nora-maleki&theme=tokyonight_duo&hide_border=true"/> -->
     </a>
     <br/>
     <br/>
+    
+<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nora-maleki&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats) -->
     
 <!-- <a href="https://github.com/nora-maleki/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=nora_maleki&langs_count=8&layout=compact&hide_border=true&bg_color=282a36&title_color=fdaaaa&text_color=fdaaaa&icon_color=fdaaaa" />
