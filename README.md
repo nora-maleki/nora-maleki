@@ -26,7 +26,7 @@ Here are some ideas to get you started:
     </a> 
     <br/>
     <a>
-        <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=nora-maleki&theme=tokyonight_duo&hide_border=true"/>
+<!--         <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=nora-maleki&theme=tokyonight_duo&hide_border=true"/> -->
     </a>
     <br/>
     <br/>
