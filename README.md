@@ -20,7 +20,7 @@ Here are some ideas to get you started:
      <a>
         <img align="center" src="https://github.com/nora-maleki/github-stats/blob/master/generated/overview.svg"/>
     </a>
-    </br>
+<!--     </br> -->
     <a href="https://wakatime.com/@nora_maleki">
         <img align="center" src="https://github.com/nora-maleki/github-stats/blob/master/generated/languages.svg?"/>
     </a> 
